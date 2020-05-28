@@ -1,0 +1,26 @@
+.buttonPos{
+    position: relative;
+    top: -38px;
+    left: 430px;
+
+}
+
+.mybox{
+    border: 1px solid black;
+    transition: 1s;
+    margin-bottom: 4px;
+}
+
+.mybox:hover{
+    background-color: #d2e1f1ab;
+    transition: 1s;
+}
+
+.myImgBox{
+    border: 1px soild black;
+}
+
+.bookname:hover{
+    color:#1e63ae
+
+}

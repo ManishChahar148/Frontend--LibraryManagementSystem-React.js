@@ -1,0 +1,19 @@
+.red{
+    color:red
+}
+
+.formTop{
+    border-top: 4px solid #87b7eb;
+    border-left: 1px solid #87b7eb;
+    border-right: 1px solid #87b7eb;
+    border-bottom: 1px solid #87b7eb;
+    transition: 2s;
+}
+
+.formTop:hover{
+    border-top: 4px solid #007bff;
+    border-left: 1px solid #007bff;
+    border-right: 1px solid #007bff;
+    transition: 2s;
+}
+
